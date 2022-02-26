@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high treason, made and enacted by the late half-quarter usurping convention: and now presented to publick view, for general satisfaction of all true English-men; with a petition or remonstrance from the shentlemen of Wales, to their cood worships; and a supplement to the new letany for these times. With the French dancing-masters speech, all-a-mode-de-France. Together with Trotters journy-man on his amble to the gallows; and his arraignment and confession, before the time of his execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75661</idno>
+            <idno type="STC">Wing A3851</idno>
+            <idno type="STC">Thomason E1017_16</idno>
+            <idno type="STC">ESTC R207998</idno>
+            <idno type="EEBO-CITATION">99867005</idno>
+            <idno type="PROQUEST">99867005</idno>
+            <idno type="VID">168819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168819)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high treason, made and enacted by the late half-quarter usurping convention: and now presented to publick view, for general satisfaction of all true English-men; with a petition or remonstrance from the shentlemen of Wales, to their cood worships; and a supplement to the new letany for these times. With the French dancing-masters speech, all-a-mode-de-France. Together with Trotters journy-man on his amble to the gallows; and his arraignment and confession, before the time of his execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Erasmus Thorowgood, and are to sold [sic] at the signe of the Roasted Rump, near the Western Barge, a little above Strand-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Variant: with a comma after "convention" in title.</note>
+                  <note>Annotation on Thomason copy: "1659 March. 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168819:1" rendition="simple:additions"/>
+            <p>ARTICLES OF High Treaſon, MADE And Enacted by the late Half-Quarter Uſurping Convention: And now preſented to publick view, for general ſatisfaction of all True ENGLISH-Men; With a Petition or Remonſtrance from the Shentle<g ref="char:EOLhyphen"/>men of WALES, to their cood Wor<g ref="char:EOLhyphen"/>ſhips; and a Supplement to the New Le<g ref="char:EOLhyphen"/>tany for theſe times. With the FRENCH Dancing-Maſters ſpeech, All-a-mode-de-France.</p>
+            <p>Together with Trotters Journy-man on his Amble to the Gallows; And his Ar<g ref="char:EOLhyphen"/>raignment and Confeſſion, before the time of his Execution.</p>
+            <p>Imprinted for <hi>Eraſmus Thorowgood,</hi> and are to ſold at the ſigne of the ROASTED RUMP, near the Weſtern Barge, a little above <hi>Strand-Bridge</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="confession">
+            <pb facs="tcp:168819:2"/>
+            <pb n="3" facs="tcp:168819:2"/>
+            <head>Trotters Journy-man On his Amble to the GALLOWS: OR, The Confeſſion of J. M. before his Execution.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Confeſs to have been brought up un<g ref="char:EOLhyphen"/>der a <hi>Trotter,</hi> but being taken from thence by my Rider, <hi>Tichburn,</hi> and put into the Tramels of Rebellion, I ſoon took a very good pace, and e<g ref="char:EOLhyphen"/>ver ſince have ſtept at ſuch a diſtance, that I preſume, none ſcruple my interfearing, being ea<g ref="char:EOLhyphen"/>ſie to have driven a Wheelbarrow betwixt my Leggs, when I ſtruted in the head of my Regi<g ref="char:EOLhyphen"/>ment: Soone report that being in the Tower I
+<pb n="4" facs="tcp:168819:3"/>ſhould ſteal Kin <hi>Henry</hi>'s Pin Cuſhion, and for its ſafer conveyance ſlipt it under my Twiſt, which occaſioned my Pelantick Guard, but to that aſſent not, to warn thoſe pretty pieces of good luck which attended me: Since I dropt into the Houſe Of<g ref="char:EOLhyphen"/>fice at Mr. <hi>Pettits,</hi> be pleaſed to know I was made a Captain of Horſe before I was a Souldi<g ref="char:EOLhyphen"/>er; I being to exerciſe my Troop with Bedſtaffs in my Houlſters, my word of Command, was, <hi>Stand to your Armes Gentlemen;</hi> by which, the nimbler Puppits then in motion, thought me more fit to be Colonel of Foot; of which I no ſooner heard, but haſted to my Glaſs to ſalute my ſelfe with the Title of <hi>Moſt Noble Colonel,</hi> and there began to Ape, as I thought the becoming poſture of my new created Honour, by which I am now become ſo Ridiculous; and ſome diſpute whether the ſubſtance was in me or my likeneſs, the one being ſhadow, the other a vapour; but to proceed how buſie I was in the diſplying of, or rather Dancing my men, I have cauſe to remember, ha<g ref="char:EOLhyphen"/>ving taught one of them to handle his Armes ſo well, that he made me a while after unable to lift mine to my Head: I had added to this the Honour of being a Militia man if you pleaſe, a Malicious man and returning from thence ſomewhat late, I found a perſon who beleiving me to be an Officer of the R V M P, was Shiting at my Door, but I made him know I belonged to the Committee of Danger, though I committed him to Safety: Who upon Examination confeſt his deſign of blo<g ref="char:EOLhyphen"/>wing open my Doors, and to have forced away
+<pb n="5" facs="tcp:168819:3"/>my Silver Head-Peice, and my beloved Glaſs, in which I firſt ſaw my ſelf a Colonel. There are ſome, who have added to my Title, Colonel Shal<g ref="char:EOLhyphen"/>low Brains, but had they fathomed my depth when I Marched into <hi>Cornhil</hi> (with my Bro<g ref="char:EOLhyphen"/>ther <hi>Hewſon</hi>) they would have waved it; for it might have been obſervable how I Guarded the Blind Side, leaving the Single Eye, as a Butt to any Markſman: In hopes it being out, I might at laſt ſupply the place of a Dogg and Bell to begg the charity of the GENTLE CRAFT: But alaſs, Fortune doth not alwayes favour fools, for though now my caſe be all turd, yet my ſhitten luck hath its period. I now lament my unpudent intruding the Common-Council, for which I was ſhamefully turned out, where each man very readily lent me his Foot to help me out of the Croud. I now bewail my playing the Chan<g ref="char:EOLhyphen"/>gling, in going to the <hi>Exchange,</hi> and thruſting my betters from the Wall, for now, alaſs I cannot walk quiet in the Channels, the leſſer Boys being readie to Piſs upon me: But what grieves me mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is, I am like to be deprived of the Office of <hi>Tichbourns</hi> Caſh-Keeper, from which I have ſuc<g ref="char:EOLhyphen"/>ked more ſweetneſs then ever he did from the Chriſters of <hi>Canaans</hi> Grapes, by the loſs of which, I ſhall be no longer able to proffer the Merchants readie Money, and then thoſe that led me out of their Warehouſes then, will kick me out now: But I do but wait till my Brother <hi>Hewſon</hi> is cut down from the Gibbet, and then I ſhall ſave them that labour.</p>
+            <pb n="6" facs="tcp:168819:4"/>
+            <p>In the next place, we ſhall preſent you with the new Articles of Treaſon made and Enacted by the Airy Notions of a deſtructive Convention to the Peace of the Commonwealth.</p>
+         </div>
+         <div type="articles">
+            <p>WHereas it concerns us, who have taken upon us to ſucceed the 30 Tyrants of <hi>Athens,</hi> in the monſtrouſneſs of their fame; And whereas there are millions that care not a Figg for us, we have thought it expedient, for certain good Old Reaſons, to chatk at theſe our new Commandements and Trea<g ref="char:EOLhyphen"/>ſonable Articles; <hi>that is to ſay,</hi> whoever yieldeth not an exact obedience to a <hi>Half-quarter R<g ref="char:V">Ʋ</g>MP-MAN,</hi> in Thought, Word, and Deed, ſhall be guilty of <hi>High Treaſon.</hi> Whoever ſhall ſee a Half-quarter man ſalute his Wife, and thereupon grows <hi>Yellow,</hi> ſhall be committed to the <hi>Black-rod.</hi> Whoever ſhall demand any Crown Lands from him that hath purchaſed it, ſhall be Guilty of <hi>High Treaſon,</hi> and ſuffer as the Marqueſs of <hi>Montroſs</hi> did, though not deſerving.</p>
+            <p>During the time of this Convention, a Petition was preſented in the name of ſundry <hi>Welſh-Farmers;</hi> as alſo a Speech made by a <hi>French</hi> Dancing-maſter; the Copies whereof followeth.</p>
+         </div>
+         <div type="petition">
+            <head>
+               <hi>To the reeght Honoraple,</hi> &amp;c. The humble Pettiſhon of ſundry Shentlemen of <hi>Wales:</hi>
+            </head>
+            <opener>
+               <salute>Doth moſt humply ſhoh to your Worſips,</salute>
+            </opener>
+            <p>THat whereas there were ſundry fery creat Re<g ref="char:EOLhyphen"/>pells in our famous Countres of <hi>Wales,</hi> who did riſe hup in repellion againſt your Worſips, and would have killed and ſlain all your cood worſips: And the Ringleater of theſe paſe repells was a fery creat Shen<g ref="char:EOLhyphen"/>tilman
+<pb n="7" facs="tcp:168819:4"/>of <hi>Wales,</hi> a man of creat power, and of a fery creat eſtate, py name Sir <hi>Hugh Middleton,</hi> and where<g ref="char:EOLhyphen"/>as we ſo underſtand that you are coing apout to ſell all his fery creat meanes;</p>
+            <p>Ma it therefore pleſe your worſips, if you will ſell ſuch cood peniworth, as your cood worſips formerly have done, as tere is no doubt, put your cood worſips muſt be forced to do, to let your Pettiſhoners have a cood pargain as ſoon as another, for <hi>py Cods plutre nails</hi> we pe Shentilmen of <hi>Wales,</hi> and will pay fery honeſtly, and peſides we ſhall be ever bound to pray, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <opener>
+               <salute>Monſieur de man in de Shoar,</salute>
+            </opener>
+            <p>BEgar me no ſpeak a ſi bon Engliſs comme vous, but me make a de ſhift for to ſpeak a de leetle, pour make a you ave a de ſome underſtanding of mine affairs. Begar Monſieur, mine affairs be de plus important affairs in all de varle, begar and dat is muſh, you'l ſay. Begar me play ode leetle Fidele me teaſh a to daunce, o ſo rare, ſo rare; begar you no ave a ſo brave fellow in all <hi>England</hi> beſides me ſelf. Begar your autre Maiſtreſs dey teach make Leg like a de <hi>Bear,</hi> or like a de <hi>Hoarſe;</hi> begar all me Scolars be all de compagnie for a Prince, au de Princeſs: but begar dit is nothing to dat I kenow, for begar me can reach all de Peo<g ref="char:EOLhyphen"/>ple to daunce after mine peep. Begar if you will donne moyl Argent, me give you dis peepe, and me teach a you to make a de People daunce after your peepe, begar the people all follow your peepe, comme de au de ſtone follow after de Poete <hi>Orfus.</hi> Par mafoy n'aucum autre man in de varle offre ſo greate advantage to any Prince in de varle. Begar
+<pb n="8" facs="tcp:168819:5"/>if you make a de refuſer, me go a preſentemant to Monſieur de King of o de <hi>Swedes,</hi> au me goe to monſieur de King de <hi>Denmark,</hi> me varrant you me live a deer in de plus great fame in de varle.</p>
+         </div>
+         <div type="litany">
+            <head>In fine, here followes a Supplement to the New Letany of theſe times, viz.</head>
+            <div type="prayer">
+               <lg>
+                  <l>THat it may pleaſe thee to uphold</l>
+                  <l>The Religion of our Fathers old,</l>
+                  <l>Which now for novelty is ſold:</l>
+               </lg>
+               <closer>
+                  <hi>Quaeſumus te,</hi> &amp;c.</closer>
+            </div>
+            <div type="prayer">
+               <lg>
+                  <l>That it may pleaſe thee to have compaſſion</l>
+                  <l>On this our ſad diſtracted Nation,</l>
+                  <l>And bring plain honeſty in faſhion:</l>
+               </lg>
+               <closer>
+                  <hi>Quaeſumus te,</hi> &amp;c.</closer>
+            </div>
+            <div type="prayer">
+               <lg>
+                  <l>That it may pleaſe thee to reduce</l>
+                  <l>Our ancient Lawes, grown out of uſe,</l>
+                  <l>Unto their Power without abuſe:</l>
+               </lg>
+               <closer>
+                  <hi>Quaeſumus te,</hi> &amp;c.</closer>
+            </div>
+            <div type="prayer">
+               <lg>
+                  <l>That it may pleaſe thee for to ſmother</l>
+                  <l>Our bloody rage gainſt one another,</l>
+                  <l>Since Cobler <hi>Hewſon</hi> ſlew his Brother:</l>
+               </lg>
+               <closer>
+                  <hi>Quaeſumus te,</hi> &amp;c.</closer>
+            </div>
+            <div type="prayer">
+               <lg>
+                  <l>That it may pleaſe thee to fulfil</l>
+                  <l>That Propheſie, <hi>That England will</hi>
+                  </l>
+                  <l>Even by a <hi>Monck</hi> be freed from ill:</l>
+               </lg>
+               <closer>
+                  <hi>Quaeſumus te,</hi> &amp;c.</closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
